@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to create and develope things such as games, or bots, and other cool things.
 - 🌱 I’m currently learning a few languages such as python, node.js, and I'm starting on swift. I know some HTML too.
 - 💞️ I’m looking to collaborate on game ideas and bot creation
-- 📫 How to reach me: Discord @HyperJedi
+- 📫 How to reach me: Discord @HyperJedi   Twitter @Fortnite Meanie
 
 <!---
 Hyper-Jedi/Hyper-Jedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
